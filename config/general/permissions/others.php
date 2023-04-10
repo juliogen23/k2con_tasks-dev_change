@@ -1,0 +1,3 @@
+<?php
+  addRute("index","login");
+?>
